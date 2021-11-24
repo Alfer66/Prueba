@@ -3,3 +3,7 @@ sdjfvks
 sdhfg
 alfer
 romero
+
+.gitignore
+git checkout -- "Nombre del archivo"
+
