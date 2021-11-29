@@ -4,6 +4,12 @@ sdhfg
 alfer
 romero
 
+git status
+git add
 .gitignore
 git checkout -- "Nombre del archivo"
+git commit -m "Nombre asignado al commit"
+git diff nombre.extencion
+2
+
 
